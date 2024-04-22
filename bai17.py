@@ -1,0 +1,5 @@
+a=float(input("nhap vao so thap phan a: "))
+b=float(input("nhap vao so thap phan b: "))
+print("So a sau khi lam tron la", round(a,2))
+print("So b sau khi lam tron la", round(b,3))
+print("So b sau khi lam tron la", round(b))
